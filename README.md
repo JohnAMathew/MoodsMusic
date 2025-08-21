@@ -90,7 +90,3 @@ MIT License. Feel free to fork, modify, and vibe with it.
   Built with ❤️ and 🎧 by <b>John Mathew</b>
 </p>
 ```
-
----
-
-Let me know if you want the file download or want it tailored to your GitHub username/repo URL.
